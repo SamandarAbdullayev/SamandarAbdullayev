@@ -1,1 +1,1 @@
-### Hi, I'm Samandar Abdullayev <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWJjMGc5YnV5bWQ1dTFvNGVtOHdhMmtuM3E4YmI1MWV6cjcwemY1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UqGhQEXe4J4ghTTCEi/giphy.gif" width="100px">
+### Hi, I'm Samandar Abdullayev <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWJjMGc5YnV5bWQ1dTFvNGVtOHdhMmtuM3E4YmI1MWV6cjcwemY1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UqGhQEXe4J4ghTTCEi/giphy.gif" width="30px">
